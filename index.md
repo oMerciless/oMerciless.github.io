@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
+title: Mercy Hub
+layout: _config.yml
+filename: index.md
 --- 
 
 
