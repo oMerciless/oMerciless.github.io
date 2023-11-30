@@ -11,3 +11,5 @@ Changelog:
 11/26/23: Updated jekyll theme
 
 11/27/23 added index.md and _layouts folders
+
+11/30/23 removed index.md and _layouts folders (they didn't do anything)
