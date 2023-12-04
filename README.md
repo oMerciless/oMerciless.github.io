@@ -1,4 +1,4 @@
-###Mercy Hub
+## Mercy Hub
 
 Changelog:
 
@@ -13,3 +13,5 @@ Changelog:
 11/27/23 added index.md and _layouts folders
 
 11/30/23 removed index.md and _layouts folders (they didn't do anything)
+
+12/4/23 fixed heading error in the text "Mercy hub"
