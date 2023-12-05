@@ -1,6 +1,6 @@
 # Mercy Hub
 
-`#7f2b27Changelog:`
+`#004444Changelog:`
 
 11/20/23: Added changelog
 
