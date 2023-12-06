@@ -1,5 +1,8 @@
 ## Changelog:
 
+
+
+
 11/20/23: Added changelog
 
 11/20/23: Began development of bookmarklet library
@@ -17,3 +20,6 @@
 12/6/23: Modified the hell out of the config folder
 
 12/6/23: Actully started developing bookmarklets 
+
+
+## Links
