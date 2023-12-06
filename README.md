@@ -23,3 +23,4 @@
 
 
 ## Links
+<p><a href="https://omerciless.github.io/DevBookmarklets.html">Developer bookmarklets</a></p>
