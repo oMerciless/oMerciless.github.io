@@ -1,5 +1,3 @@
-# Mercy Hub
-
 ## Changelog:
 
 11/20/23: Added changelog
