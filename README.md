@@ -17,6 +17,8 @@
 12/6/23: Modified the hell out of the config folder
 
 12/6/23: Actully started developing bookmarklets 
+
+<button type="button" onclick="alert('I do nothing lol')">Click Me!</button>
  
 ## Links
 <p><a href="https://omerciless.github.io/DevBookmarklets.html">Developer bookmarklets</a></p>
