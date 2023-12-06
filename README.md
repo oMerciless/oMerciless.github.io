@@ -13,3 +13,5 @@
 11/30/23 removed index.md and _layouts folders (they didn't do anything)
 
 12/4/23 fixed heading error in the text "Mercy hub"
+
+12/6/23 modified the hell out of the config folder
