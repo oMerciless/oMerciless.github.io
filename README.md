@@ -20,5 +20,5 @@
 
 <button type="button" onclick="alert('I do nothing lol')">Click Me!</button>
  
-## Links
-<p><a href="https://omerciless.github.io/DevBookmarklets.html">Developer bookmarklets</a></p>
+## Developer bookmarklets
+<button onclick="window.location.href='https://omerciless.github.io/DevBookmarklets.html'" style="background-color: darkgrey; border: 1px solid black; padding: 10px 20px; color: white;">Visit DevBookmarklets</button>
