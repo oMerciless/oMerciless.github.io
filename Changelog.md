@@ -17,4 +17,8 @@
 
 12/6/23: Actully started developing bookmarklets
 
+12/7/23: Overhauled the _config.yml file
+
+12/7/23: Added separate page for the changelog 
+
 <button style="background-color: darkgrey; padding: 10px 20px; color: black; border: 2px solid black;" onclick="window.location.href='https://omerciless.github.io'">Back to home </button>
