@@ -14,7 +14,7 @@
 
 12/4/23: Fixed heading error in the text "Mercy hub"
 
-12/6/23: Modified the hell out of the config folder
+12/6/23: Modified the config folder
 
 12/6/23: Actully started developing bookmarklets 
 
