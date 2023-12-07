@@ -21,4 +21,6 @@
 
 12/7/23: Added separate page for the changelog 
 
+12/7/23: Fixed button not showing up
+
 <button style="background-color: darkgrey; padding: 10px 20px; color: black; border: 2px solid black;" onclick="window.location.href='https://omerciless.github.io'">Back to home </button>
