@@ -16,3 +16,5 @@
 12/6/23: Modified the config folder
 
 12/6/23: Actully started developing bookmarklets
+
+<button style="background-color: darkgrey; padding: 10px 20px; color: black; border: 2px solid black;" onclick="window.location.href='https://omerciless.github.io'">Back to home </button>
