@@ -1,4 +1,5 @@
 # Developer bookmarklets
+
 ## A list of useful bookmarklets. Many of these are **NOT** mine. Credits will be listed underneath the "back to main" button.
 
 ### Search links bookmarklet. Creates a complied list of links on the current page containing specified text. (E.G. looking for links containing "blah.")
