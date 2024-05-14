@@ -6,4 +6,4 @@
 
 2.) Building a side scrolling platformer in Godot v4.0 (Really good platform if I do say so myself)
 
-3.) Creating a prived hacked client for Minecraft (I know, I know, don't make fun of me)
+3.) Creating a private hacked client for Minecraft (I know, I know, don't make fun of me)
